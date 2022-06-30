@@ -1,0 +1,30 @@
+body {
+    font-family: 'Bubblegum Sans', cursive;
+    margin: 10px;
+}
+
+footer {
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.container.pt-5.hero {
+    padding: 25px;
+}
+
+.featured-user {
+    margin-top: 50px;
+}
+
+.list-unstyled img {
+    width: 50px;
+    margin: 10px;
+}
+
+.card {
+    margin-top: 50px;
+}
+
+.form-section {
+background-image: url("blue-wall.jpg");
+}
